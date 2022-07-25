@@ -38,7 +38,8 @@ public class UserDefineConstructor
 	 {
 		 int sub=a-b;
 		 System.out.println("substraction is "+sub);
-		 
+		 System.out.println("this is practice for git ");
 	 }
+	 
 
 }
